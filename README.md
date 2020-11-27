@@ -350,7 +350,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [ColorMe](https://colorme.io) – Visualize The CSS Color Function.
 - [oauthbible](http://oauthbible.com) – Clear OAuth explaination.
 - [RequestBin.com](https://requestbin.com) - You can use the service to create a free HTTPS endpoint. Any HTTP requests sent to that endpoint will be recorded with the associated HTTP payload and headers so you can observe the data sent from webhooks or other apps before configuring your application to accept it.
-
+- [Localazy](https://localazy.com) - Translate your front-end to make apps speak your user's langauge.
 
 ## Stats
 - [StatCounter](http://gs.statcounter.com)
